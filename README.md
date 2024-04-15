@@ -20,3 +20,12 @@ To run this application, you need a modern web browser that supports HTML5, CSS3
 5. Click the "Calculate Tax" button.
 6. The application will calculate your overall income after deductions and the tax amount based on your age group and income level.
 7. The result will be displayed in a modal window.
+
+
+##Screenshot
+![image](https://github.com/Rehant123/fyle-internship-challenge_web_dev/assets/74208153/3ee921cb-a502-40ab-acd1-8f5a5dfc62bd)
+
+![image](https://github.com/Rehant123/fyle-internship-challenge_web_dev/assets/74208153/eec6fdf5-619a-4989-9b76-f1ae6518bcc6)
+
+
+
